@@ -44,6 +44,7 @@ body {
   /* width: 400px; */
   letter-spacing: -2px;
   margin-bottom: 30px;
+  max-width: 480px;
 }
 
 .product p:last-of-type {
